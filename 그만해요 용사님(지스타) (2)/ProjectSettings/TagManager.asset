@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NumBlockManeger
+  - Enemy
+  - Fire
+  - Item
+  - Long
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Button
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1101932573
+    locked: 0
+  - name: UI
+    uniqueID: 1301878669
+    locked: 0
+  - name: Number Block Base
+    uniqueID: 708438243
+    locked: 0
+  - name: Number Block
+    uniqueID: 2478639603
+    locked: 0
+  - name: Number Block UI
+    uniqueID: 1819041123
+    locked: 0

@@ -7,7 +7,6 @@ using UnityEngine.UI;
 //block을 움직이는 스크립트
 
 public class BlockController : SwipeReceiver
-
 {
     private bool isPause = false;
 
